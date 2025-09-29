@@ -1,0 +1,271 @@
+src_stage,src,dst_stage,dst,value
+1,RXWAS,2,ECD or dental casualty department of the HCP,6718
+1,RXWAT,2,ECD or dental casualty department of the HCP,6409
+1,RXWAT,2,"Consultant clinic, of this or another health care provider",1555
+1,RXWAS,2,"Consultant clinic, of this or another health care provider",1062
+1,RXWAT,2,Other emergency admission,292
+1,RXWAS,2,Other emergency admission,269
+1,RXWAS,2,GP,219
+1,RXWAS,2,Tfr of adm pat from another emerg provider,68
+1,RXWAT,2,GP,66
+1,RXWAT,2,Tfr of adm pat from another emerg provider,53
+1,RXWAS,2,ECD of another provider where patient had not been admitted,23
+1,RXWAT,2,ECD of another provider where patient had not been admitted,19
+2,ECD or dental casualty department of the HCP,3,Other primary dx,7029
+2,ECD or dental casualty department of the HCP,3,Fracture of neck of femur,2311
+2,"Consultant clinic, of this or another health care provider",3,Other primary dx,1925
+2,ECD or dental casualty department of the HCP,3,Pertrochanteric fracture,1257
+2,ECD or dental casualty department of the HCP,3,Fractures of other parts of lower leg,551
+2,ECD or dental casualty department of the HCP,3,Mechanical complication of internal joint prosthesis,488
+2,Other emergency admission,3,Other primary dx,401
+2,ECD or dental casualty department of the HCP,3,Low back pain,379
+2,ECD or dental casualty department of the HCP,3,Cellulitis of other parts of limb,282
+2,ECD or dental casualty department of the HCP,3,Fracture of lower end of tibia,262
+2,ECD or dental casualty department of the HCP,3,Fracture of lower end of radius,212
+2,ECD or dental casualty department of the HCP,3,Fracture of lower end of both ulna and radius,201
+2,GP,3,Other primary dx,190
+2,"Consultant clinic, of this or another health care provider",3,Fracture of lower end of radius,184
+2,ECD or dental casualty department of the HCP,3,"Cutaneous abscess, furuncle and carbuncle of limb",155
+2,"Consultant clinic, of this or another health care provider",3,Fractures of other parts of lower leg,154
+2,"Consultant clinic, of this or another health care provider",3,Fracture of lower end of both ulna and radius,97
+2,Tfr of adm pat from another emerg provider,3,Other primary dx,95
+2,"Consultant clinic, of this or another health care provider",3,"Cutaneous abscess, furuncle and carbuncle of limb",77
+2,"Consultant clinic, of this or another health care provider",3,Cellulitis of other parts of limb,65
+2,"Consultant clinic, of this or another health care provider",3,Fracture of neck of femur,46
+2,Other emergency admission,3,Fractures of other parts of lower leg,41
+2,GP,3,Cellulitis of other parts of limb,39
+2,Other emergency admission,3,Fracture of lower end of radius,36
+2,ECD of another provider where patient had not been admitted,3,Other primary dx,33
+2,"Consultant clinic, of this or another health care provider",3,Fracture of lower end of tibia,26
+2,Other emergency admission,3,Fracture of neck of femur,25
+2,GP,3,"Cutaneous abscess, furuncle and carbuncle of limb",24
+2,GP,3,Low back pain,22
+2,"Consultant clinic, of this or another health care provider",3,Mechanical complication of internal joint prosthesis,19
+2,"Consultant clinic, of this or another health care provider",3,Pertrochanteric fracture,16
+2,Other emergency admission,3,Fracture of lower end of both ulna and radius,14
+2,Other emergency admission,3,Pertrochanteric fracture,11
+2,Tfr of adm pat from another emerg provider,3,Fracture of neck of femur,11
+2,Other emergency admission,3,"Cutaneous abscess, furuncle and carbuncle of limb",10
+2,Other emergency admission,3,Mechanical complication of internal joint prosthesis,10
+2,"Consultant clinic, of this or another health care provider",3,Low back pain,8
+2,Other emergency admission,3,Fracture of lower end of tibia,8
+2,GP,3,Fracture of neck of femur,5
+3,Other primary dx,4,Other secondary dx,7112
+3,Fracture of neck of femur,4,Other secondary dx,874
+3,Other primary dx,4,"Fall on same level from slipping, tripping and stumbling",631
+3,Fracture of neck of femur,4,"Fall on same level from slipping, tripping and stumbling",589
+3,Fracture of neck of femur,4,Unspecified fall,476
+3,Pertrochanteric fracture,4,Other secondary dx,463
+3,Other primary dx,4,Unspecified fall,418
+3,Low back pain,4,Other secondary dx,353
+3,Cellulitis of other parts of limb,4,Other secondary dx,332
+3,Other primary dx,4,Other fall on same level,318
+3,Fractures of other parts of lower leg,4,Other secondary dx,311
+3,Mechanical complication of internal joint prosthesis,4,Other secondary dx,310
+3,Pertrochanteric fracture,4,"Fall on same level from slipping, tripping and stumbling",289
+3,Fracture of neck of femur,4,Other fall on same level,279
+3,Other primary dx,4,Unknown or not applicable,273
+3,Pertrochanteric fracture,4,Unspecified fall,268
+3,Fracture of lower end of radius,4,Other secondary dx,229
+3,Other primary dx,4,Fall on and from stairs and steps,228
+3,Other primary dx,4,Overexertion and strenuous or repetitive movements,220
+3,Fractures of other parts of lower leg,4,"Fall on same level from slipping, tripping and stumbling",198
+3,"Cutaneous abscess, furuncle and carbuncle of limb",4,Other secondary dx,196
+3,Fracture of lower end of both ulna and radius,4,Other secondary dx,182
+3,Pertrochanteric fracture,4,Other fall on same level,181
+3,Fracture of lower end of tibia,4,Other secondary dx,173
+3,Other primary dx,4,Staphylococcus aureus as the cause of diseases classified to other chapters,170
+3,Other primary dx,4,Fall involving playground equipment,124
+3,Other primary dx,4,Essential (primary) hypertension,112
+3,Fractures of other parts of lower leg,4,Fall on and from stairs and steps,111
+3,Fracture of neck of femur,4,Fall on and from stairs and steps,87
+3,Mechanical complication of internal joint prosthesis,4,Overexertion and strenuous or repetitive movements,76
+3,Other primary dx,4,Fall involving bed,69
+3,Fracture of neck of femur,4,Fall involving bed,67
+3,Fracture of lower end of radius,4,"Fall on same level from slipping, tripping and stumbling",64
+3,Fracture of lower end of tibia,4,"Fall on same level from slipping, tripping and stumbling",55
+3,Fracture of lower end of radius,4,Other fall on same level,51
+3,Pertrochanteric fracture,4,Fall on and from stairs and steps,50
+3,"Cutaneous abscess, furuncle and carbuncle of limb",4,Staphylococcus aureus as the cause of diseases classified to other chapters,46
+3,Fractures of other parts of lower leg,4,Unspecified fall,45
+3,Mechanical complication of internal joint prosthesis,4,Essential (primary) hypertension,38
+3,Fracture of lower end of both ulna and radius,4,"Fall on same level from slipping, tripping and stumbling",35
+3,Mechanical complication of internal joint prosthesis,4,"Fall on same level from slipping, tripping and stumbling",34
+3,Fracture of lower end of radius,4,Unspecified fall,31
+3,Fractures of other parts of lower leg,4,Other fall on same level,31
+3,Mechanical complication of internal joint prosthesis,4,Unspecified fall,31
+3,Pertrochanteric fracture,4,Fall involving bed,31
+3,Fracture of lower end of both ulna and radius,4,Fall involving playground equipment,28
+3,Cellulitis of other parts of limb,4,Unknown or not applicable,25
+3,"Cutaneous abscess, furuncle and carbuncle of limb",4,Unknown or not applicable,24
+3,Fractures of other parts of lower leg,4,Overexertion and strenuous or repetitive movements,24
+3,Fracture of lower end of radius,4,Fall involving playground equipment,23
+3,Fracture of lower end of both ulna and radius,4,Unspecified fall,22
+3,Fracture of lower end of tibia,4,Fall on and from stairs and steps,20
+3,Fracture of lower end of both ulna and radius,4,Other fall on same level,19
+3,Fracture of lower end of radius,4,Fall on and from stairs and steps,18
+3,Cellulitis of other parts of limb,4,Essential (primary) hypertension,17
+3,Fracture of neck of femur,4,Essential (primary) hypertension,17
+3,Cellulitis of other parts of limb,4,Staphylococcus aureus as the cause of diseases classified to other chapters,16
+3,Fractures of other parts of lower leg,4,Unknown or not applicable,15
+3,Fracture of lower end of tibia,4,Other fall on same level,14
+3,Mechanical complication of internal joint prosthesis,4,Other fall on same level,14
+3,Fracture of lower end of radius,4,Unknown or not applicable,13
+3,Fracture of lower end of both ulna and radius,4,Unknown or not applicable,12
+3,Fracture of lower end of tibia,4,Fall involving playground equipment,12
+3,Mechanical complication of internal joint prosthesis,4,Fall involving bed,12
+3,Fracture of lower end of both ulna and radius,4,Fall on and from stairs and steps,11
+3,Fracture of lower end of tibia,4,Unspecified fall,11
+3,Low back pain,4,Unknown or not applicable,11
+3,Low back pain,4,Unspecified fall,11
+3,Fractures of other parts of lower leg,4,Essential (primary) hypertension,10
+3,Low back pain,4,Essential (primary) hypertension,10
+3,Fracture of neck of femur,4,Overexertion and strenuous or repetitive movements,9
+3,Low back pain,4,Overexertion and strenuous or repetitive movements,9
+3,Fracture of lower end of tibia,4,Overexertion and strenuous or repetitive movements,7
+3,Low back pain,4,Fall on and from stairs and steps,7
+3,Low back pain,4,"Fall on same level from slipping, tripping and stumbling",7
+3,Fracture of lower end of both ulna and radius,4,Overexertion and strenuous or repetitive movements,5
+3,Pertrochanteric fracture,4,Essential (primary) hypertension,5
+4,Other secondary dx,5,Other HRG,8616
+4,"Fall on same level from slipping, tripping and stumbling",5,Other HRG,1108
+4,Unspecified fall,5,Other HRG,827
+4,Other fall on same level,5,Other HRG,540
+4,Other secondary dx,5,"HC27N: Degenerative Spinal Conditions without Interventions, with CC Score 0-2",434
+4,Fall on and from stairs and steps,5,Other HRG,360
+4,Unknown or not applicable,5,Other HRG,323
+4,Overexertion and strenuous or repetitive movements,5,Other HRG,313
+4,Other secondary dx,5,"HC32K: Low Back Pain without Interventions, with CC Score 0-2",255
+4,Other secondary dx,5,"HT44C: Intermediate Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",255
+4,Staphylococcus aureus as the cause of diseases classified to other chapters,5,Other HRG,232
+4,Other secondary dx,5,"HT43C: Major Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",194
+4,Fall involving playground equipment,5,Other HRG,185
+4,"Fall on same level from slipping, tripping and stumbling",5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,173
+4,Essential (primary) hypertension,5,Other HRG,170
+4,Other secondary dx,5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,164
+4,"Fall on same level from slipping, tripping and stumbling",5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,152
+4,Other secondary dx,5,"HT33D: Major Foot Procedures for Trauma, 19 years and over, with CC Score 0",151
+4,Unspecified fall,5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,151
+4,Other secondary dx,5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,149
+4,Fall involving bed,5,Other HRG,124
+4,"Fall on same level from slipping, tripping and stumbling",5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,123
+4,Other secondary dx,5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,123
+4,"Fall on same level from slipping, tripping and stumbling",5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,108
+4,Other secondary dx,5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,104
+4,"Fall on same level from slipping, tripping and stumbling",5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,101
+4,Unspecified fall,5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,98
+4,Unspecified fall,5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,93
+4,Other secondary dx,5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,90
+4,Other fall on same level,5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,87
+4,Other fall on same level,5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,80
+4,"Fall on same level from slipping, tripping and stumbling",5,"HT33D: Major Foot Procedures for Trauma, 19 years and over, with CC Score 0",74
+4,Other fall on same level,5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,65
+4,Unspecified fall,5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,60
+4,Unspecified fall,5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,50
+4,Other fall on same level,5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,47
+4,Other fall on same level,5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,46
+4,"Fall on same level from slipping, tripping and stumbling",5,"HT43C: Major Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",45
+4,Fall on and from stairs and steps,5,"HT33D: Major Foot Procedures for Trauma, 19 years and over, with CC Score 0",43
+4,Fall on and from stairs and steps,5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,27
+4,Fall on and from stairs and steps,5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,25
+4,Fall on and from stairs and steps,5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,25
+4,Fall involving bed,5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,24
+4,Unknown or not applicable,5,"HC27N: Degenerative Spinal Conditions without Interventions, with CC Score 0-2",24
+4,Other fall on same level,5,"HT43C: Major Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",23
+4,Unspecified fall,5,"HT43C: Major Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",19
+4,Fall on and from stairs and steps,5,"HT43C: Major Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",18
+4,Overexertion and strenuous or repetitive movements,5,"HT33D: Major Foot Procedures for Trauma, 19 years and over, with CC Score 0",16
+4,Fall on and from stairs and steps,5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,13
+4,Fall on and from stairs and steps,5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,13
+4,"Fall on same level from slipping, tripping and stumbling",5,"HT44C: Intermediate Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",12
+4,Fall involving bed,5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,11
+4,Fall involving bed,5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,11
+4,Unknown or not applicable,5,"HT33D: Major Foot Procedures for Trauma, 19 years and over, with CC Score 0",11
+4,Other fall on same level,5,"HT33D: Major Foot Procedures for Trauma, 19 years and over, with CC Score 0",10
+4,Unknown or not applicable,5,"HC32K: Low Back Pain without Interventions, with CC Score 0-2",10
+4,Essential (primary) hypertension,5,"HC32K: Low Back Pain without Interventions, with CC Score 0-2",9
+4,Essential (primary) hypertension,5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,9
+4,Fall involving bed,5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,8
+4,Other fall on same level,5,"HT44C: Intermediate Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",8
+4,Overexertion and strenuous or repetitive movements,5,"HC32K: Low Back Pain without Interventions, with CC Score 0-2",8
+4,Unknown or not applicable,5,"HT43C: Major Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",8
+4,Essential (primary) hypertension,5,"HC27N: Degenerative Spinal Conditions without Interventions, with CC Score 0-2",7
+4,Fall involving bed,5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,7
+4,Unspecified fall,5,"HC32K: Low Back Pain without Interventions, with CC Score 0-2",7
+4,Essential (primary) hypertension,5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,6
+4,Essential (primary) hypertension,5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,6
+4,Fall on and from stairs and steps,5,"HC27N: Degenerative Spinal Conditions without Interventions, with CC Score 0-2",6
+4,Unspecified fall,5,"HT44C: Intermediate Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",5
+5,Other HRG,6,Usual place of residence,10106
+5,Other HRG,6,NHS other hospital provider - ward for general patients,1113
+5,Other HRG,6,"Temp residence, eg hotel",549
+5,Other HRG,6,Not applicable - spell not finished at ep end,505
+5,"HC27N: Degenerative Spinal Conditions without Interventions, with CC Score 0-2",6,Usual place of residence,432
+5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,6,Usual place of residence,333
+5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,6,Usual place of residence,331
+5,"HT43C: Major Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",6,Usual place of residence,311
+5,"HT33D: Major Foot Procedures for Trauma, 19 years and over, with CC Score 0",6,Usual place of residence,302
+5,"HT44C: Intermediate Hand Procedures for Trauma, 19 years and over, with CC Score 0-1",6,Usual place of residence,292
+5,"HC32K: Low Back Pain without Interventions, with CC Score 0-2",6,Usual place of residence,282
+5,Other HRG,6,Not applicable - patient died or still birth,254
+5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,6,Usual place of residence,240
+5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,6,Usual place of residence,192
+5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,6,Usual place of residence,176
+5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,6,NHS other hospital provider - ward for general patients,125
+5,Other HRG,6,NHS run care home,118
+5,Other HRG,6,Non-NHS (other than local authority) run care home,90
+5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,6,NHS other hospital provider - ward for general patients,89
+5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,6,"Temp residence, eg hotel",87
+5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,6,"Temp residence, eg hotel",78
+5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,6,NHS other hospital provider - ward for general patients,73
+5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,6,NHS other hospital provider - ward for general patients,71
+5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,6,NHS other hospital provider - ward for general patients,57
+5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,6,"Temp residence, eg hotel",45
+5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,6,"Temp residence, eg hotel",45
+5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,6,"Temp residence, eg hotel",44
+5,"HC27N: Degenerative Spinal Conditions without Interventions, with CC Score 0-2",6,NHS other hospital provider - ward for general patients,41
+5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,6,Not applicable - spell not finished at ep end,40
+5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,6,Not applicable - spell not finished at ep end,34
+5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,6,Not applicable - spell not finished at ep end,29
+5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,6,Non-NHS (other than local authority) run care home,28
+5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,6,Not applicable - spell not finished at ep end,25
+5,Other HRG,6,NHS other hospital provider - ward for mentally ill/ld pats,23
+5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,6,Non-NHS (other than local authority) run care home,20
+5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,6,Not applicable - spell not finished at ep end,17
+5,HT12D: Very Major Hip Procedures for Trauma with CC Score 3-5,6,NHS run care home,15
+5,"HC32K: Low Back Pain without Interventions, with CC Score 0-2",6,NHS other hospital provider - ward for general patients,11
+5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,6,NHS run care home,11
+5,HT12C: Very Major Hip Procedures for Trauma with CC Score 6-8,6,NHS run care home,10
+5,Other HRG,6,NHS other hospital provider - medium secure unit,10
+5,Other HRG,6,Non-NHS run hospital,9
+5,HT13D: Major Hip Procedures for Trauma with CC Score 3-5,6,Non-NHS (other than local authority) run care home,8
+5,Other HRG,6,Penal establishment or police station,8
+5,Other HRG,6,NHS other - ward for maternity pats or neonates,7
+5,HT13E: Major Hip Procedures for Trauma with CC Score 0-2,6,NHS run care home,6
+5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,6,NHS run care home,5
+5,HT12E: Very Major Hip Procedures for Trauma with CC Score 0-2,6,Non-NHS (other than local authority) run care home,5
+5,Other HRG,6,Non-NHS (other than local authority) run hospice,5
+6,Usual place of residence,7,Pat disch on clinical advice or with clinical consent,12738
+6,NHS other hospital provider - ward for general patients,7,Pat disch on clinical advice or with clinical consent,1576
+6,"Temp residence, eg hotel",7,Pat disch on clinical advice or with clinical consent,852
+6,Not applicable - spell not finished at ep end,7,Not applicable,655
+6,Not applicable - patient died or still birth,7,Patient died,262
+6,Usual place of residence,7,Pat discharged by self or by relative,258
+6,NHS run care home,7,Pat disch on clinical advice or with clinical consent,165
+6,Non-NHS (other than local authority) run care home,7,Pat disch on clinical advice or with clinical consent,150
+6,NHS other hospital provider - ward for mentally ill/ld pats,7,Pat disch on clinical advice or with clinical consent,28
+6,NHS other hospital provider - medium secure unit,7,Pat disch on clinical advice or with clinical consent,16
+6,Non-NHS run hospital,7,Pat disch on clinical advice or with clinical consent,11
+6,Penal establishment or police station,7,Pat disch on clinical advice or with clinical consent,9
+6,NHS other - ward for maternity pats or neonates,7,Pat disch on clinical advice or with clinical consent,8
+6,NHS other hospital provider - ward for general patients,7,Pat discharged by self or by relative,8
+6,Non-NHS (other than local authority) run hospice,7,Pat disch on clinical advice or with clinical consent,6
+6,"Temp residence, eg hotel",7,Pat discharged by self or by relative,5
+7,Pat disch on clinical advice or with clinical consent,8,Unknown or not applicable,14445
+7,Pat disch on clinical advice or with clinical consent,8,Care home resident,1119
+7,Not applicable,8,Unknown or not applicable,563
+7,Pat discharged by self or by relative,8,Unknown or not applicable,265
+7,Patient died,8,Unknown or not applicable,189
+7,Not applicable,8,Care home resident,92
+7,Patient died,8,Care home resident,75
+7,Pat discharged by self or by relative,8,Care home resident,7
