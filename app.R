@@ -8,8 +8,8 @@ suppressPackageStartupMessages({
 })
 
 # New (portable)
-EDGES_CSV <- file.path("data", "sankey_edges.csv")
-META_CSV  <- file.path("data", "sankey_meta.csv")
+EDGES_CSV <- "sankey_edges.csv"
+META_CSV  <- "sankey_meta.csv"
 
 edges_all <- readr::read_csv(EDGES_CSV, show_col_types = FALSE)
 meta <- tryCatch(readr::read_csv(META_CSV, show_col_types = FALSE), error = function(e) NULL)
@@ -188,4 +188,5 @@ server <- function(input, output, session){
 }
 
 shinyApp(ui, server)
+
 
