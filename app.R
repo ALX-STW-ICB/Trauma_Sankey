@@ -7,8 +7,9 @@ suppressPackageStartupMessages({
   library(networkD3); library(htmlwidgets); library(readr); library(purrr)
 })
 
-EDGES_CSV <- "C:\\Users\\alexander.neale\\OneDrive - NHS\\Analytics STW data lead\\Computer science\\Simulation\\SaTH Bed model\\Excel files\\sankey_edges.csv"
-META_CSV  <- "C:\\Users\\alexander.neale\\OneDrive - NHS\\Analytics STW data lead\\Computer science\\Simulation\\SaTH Bed model\\Excel files\\sankey_meta.csv"
+# New (portable)
+EDGES_CSV <- file.path("data", "sankey_edges.csv")
+META_CSV  <- file.path("data", "sankey_meta.csv")
 
 edges_all <- readr::read_csv(EDGES_CSV, show_col_types = FALSE)
 meta <- tryCatch(readr::read_csv(META_CSV, show_col_types = FALSE), error = function(e) NULL)
@@ -187,3 +188,4 @@ server <- function(input, output, session){
 }
 
 shinyApp(ui, server)
+
